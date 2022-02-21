@@ -1,0 +1,19 @@
+body {
+    background: rgb(44, 44, 44);
+    color: rgb(233, 233, 233);
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+div#cod {
+    font-size: 300px;
+    text-align: center;
+}
+
+div#tec {
+    text-align: center;
+    font-size: 60px;
+}
