@@ -7,7 +7,7 @@
 <p>Basta pressionar uma tecla, e você terá o keycode correspondente</p>
 
 
-## Linguagens Usadas
+## Tecnologias Usadas
 - ✔️ HTML
 - ✔️ CSS
 - ✔️ JavaScript
